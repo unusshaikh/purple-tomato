@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>color of the vine</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_39392_pt.vine</name>
+        <read_roles/>
+        <suffix>vine</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-25 11:54:51</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>95b1e42c4f50220026087e918110c770</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_39392_pt.vine</sys_name>
+        <sys_package display_value="pt" source="x_39392_pt">1c0b50604f50220026087e918110c7e2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="pt">1c0b50604f50220026087e918110c7e2</sys_scope>
+        <sys_update_name>sys_properties_95b1e42c4f50220026087e918110c770</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-25 11:54:51</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=95b1e42c4f50220026087e918110c770"/>
+</record_update>
