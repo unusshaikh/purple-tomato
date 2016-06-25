@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Tomatos" max_length="40" name="x_39392_pt_tomatos" type="collection">
+        <element label="Color" max_length="40" name="color" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
