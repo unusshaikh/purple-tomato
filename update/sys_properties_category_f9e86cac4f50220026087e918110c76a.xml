@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>vines</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-25 12:23:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f9e86cac4f50220026087e918110c76a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vines</sys_name>
+        <sys_package display_value="pt" source="x_39392_pt">1c0b50604f50220026087e918110c7e2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="pt">1c0b50604f50220026087e918110c7e2</sys_scope>
+        <sys_update_name>sys_properties_category_f9e86cac4f50220026087e918110c76a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-25 12:23:09</sys_updated_on>
+        <title/>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=f9e86cac4f50220026087e918110c76a"/>
+</record_update>
